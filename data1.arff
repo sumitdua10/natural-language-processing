@@ -5,13 +5,13 @@
 @attribute Broken_Truck INTEGER
 @attribute Vehicle_excess {T, F}
 @attribute Accident_victim INTEGER
-@attribute Running_over STRING
+@attribute Running_over INTEGER
 @attribute Fire_vehicles {YES, NO}
 @attribute Occurrence_involving_freight INTEGER
 @attribute Incident_involving_dangerous_freight INTEGER
 @attribute Lack_of_electricity INTEGER
 @attribute Fire INTEGER
-@attribute Point_of_flooding STRING
+@attribute Point_of_flooding INTEGER
 @attribute Manifestations INTEGER
 @attribute Defect_in_the_network_of_trolleybuses INTEGER
 @attribute Tree_on_the_road INTEGER
